@@ -100,13 +100,13 @@
 
             <div id="tel">
                 <div class="form-group">
-                    <input type="text" required="required" />
+                    <input type="text" />
                     <label for="input" class="control-label">Tel.-Nr</label><i class="bar"></i>
                 </div>
 </div>
             <div id="comment">
                 <div class="form-group">
-                    <textarea required="required"></textarea>
+                    <textarea></textarea>
                     <label for="textarea" class="control-label">Kommentar/Details:</label><i class="bar"></i>
                 </div>
 </div>

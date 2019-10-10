@@ -1,8 +1,10 @@
-Hallo,
+# docker build -t myphp .
+# docker run -p 80:80 myphp
 
-der Code ist nicht ganz sauber, aber ich denke, dass die Aufgabe erfüllt wurde.
+# crt c
+# docker container ls oder docker ps
+# docker stop 'id'
 
-viele Grüße
 
 # Linux / OSX
 # docker build -t myphp .
